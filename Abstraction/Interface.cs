@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace BasicOOPSConcepts
 {
-    class Organization
+    class Organization // Class
     {
-        String organizationName = "Kalpita Technologies";
+        readonly string organizationName = "Kalpita Technologies";
         String empoyeeName;
         int employeeID;
 
@@ -27,16 +27,16 @@ namespace BasicOOPSConcepts
             Console.WriteLine("Employe ID is " + employeeID + " , Employe Name is " + empoyeeName);
         }
     }
-     interface IHr
+     interface IHr  // Interface
     {
-        void applyForLeave();
+        void ApplyForLeave();
 
     }
 
-    class Employee : Organization, IHr
+    class Employee : Organization,IHr // Implementing Class and Interface
     {
 
-        public void applyForLeave()
+        public void ApplyForLeave()
         {
             Console.WriteLine("For Leave apply here!");
         }
@@ -44,7 +44,7 @@ namespace BasicOOPSConcepts
         static void Main()
         {
             Employee employee = new Employee();
-            employee.applyForLeave();
+            employee.ApplyForLeave();
             employee.getOrganizationProfile();
             employee.getEmployeeProfile(123, "Anand");
 
