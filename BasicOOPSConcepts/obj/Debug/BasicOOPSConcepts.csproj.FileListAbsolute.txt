@@ -1,8 +1,0 @@
-C:\Users\AnandMuragayyaSankra\source\repos\BasicOOPSConcepts\bin\Debug\BasicOOPSConcepts.exe.config
-C:\Users\AnandMuragayyaSankra\source\repos\BasicOOPSConcepts\bin\Debug\BasicOOPSConcepts.exe
-C:\Users\AnandMuragayyaSankra\source\repos\BasicOOPSConcepts\bin\Debug\BasicOOPSConcepts.pdb
-C:\Users\AnandMuragayyaSankra\source\repos\BasicOOPSConcepts\obj\Debug\BasicOOPSConcepts.csproj.AssemblyReference.cache
-C:\Users\AnandMuragayyaSankra\source\repos\BasicOOPSConcepts\obj\Debug\BasicOOPSConcepts.csproj.SuggestedBindingRedirects.cache
-C:\Users\AnandMuragayyaSankra\source\repos\BasicOOPSConcepts\obj\Debug\BasicOOPSConcepts.csproj.CoreCompileInputs.cache
-C:\Users\AnandMuragayyaSankra\source\repos\BasicOOPSConcepts\obj\Debug\BasicOOPSConcepts.exe
-C:\Users\AnandMuragayyaSankra\source\repos\BasicOOPSConcepts\obj\Debug\BasicOOPSConcepts.pdb
